@@ -10,3 +10,7 @@ Lab works related to Data Science
   * [Simple Linear Regression](https://github.com/sula234/DataScience/blob/main/ML/Lab1.ipynb)
   * [Logistic Regression](https://github.com/sula234/DataScience/blob/main/ML/Lab2.ipynb)
   * [Clusterization](https://github.com/sula234/DataScience/blob/main/ML/Lab3.ipynb)
+
+## Section 3. Image Processing
+  * [Image Classification](https://github.com/sula234/DataScience/blob/main/ImageProcessing/Lab4_1.ipynb)
+  * [Transfer Learning](https://github.com/sula234/DataScience/blob/main/ImageProcessing/Lab4_2.ipynb)
